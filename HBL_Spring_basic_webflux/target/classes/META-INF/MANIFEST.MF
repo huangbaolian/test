@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: webflux
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: P1320172
+Implementation-Vendor-Id: com.hbl.Spring5.Webflux
+Build-Jdk: 1.8.0_212-1-ojdkbuild
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/webflux
+Created-By: Maven Integration for Eclipse
+
